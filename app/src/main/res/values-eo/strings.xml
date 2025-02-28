@@ -23,4 +23,6 @@
     <string name="raw_images">RAW-bildoj</string>
     <string name="svgs">SVG-bildoj</string>
     <string name="portraits">Portretoj</string>
+    <string name="thumbnails">Miniaturoj</string>
+    <string name="toggle_favorite">Baskuligi plej ŝatatan</string>
 </resources>
